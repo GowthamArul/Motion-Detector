@@ -2,11 +2,11 @@
 
 ## Requirements
 
-1. Image processing
+1. Computer Vision
 
 pip install opencv-python
 
-2. To reading data and formatting information from Excel files
+2. Reading data and formatting information from Excel files
 
 pip install xlrd
 
